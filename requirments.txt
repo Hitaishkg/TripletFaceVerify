@@ -1,0 +1,7 @@
+cv2
+numpy
+pandas
+matplotlib
+tensorflow = 2.12.0
+keras
+uuid
